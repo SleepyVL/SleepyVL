@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/banner.png" alt="SleepyVL, Software Developer" width="100%" />
+    <img src="assets/banner.gif" alt="SleepyVL, Software Developer" width="100%" />
 </p>
 
 ### About me
