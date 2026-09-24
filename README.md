@@ -6,7 +6,7 @@
 
 I'm a second year software development student working on improving my knowledge and skills in C++ and C#.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.png" width="100%" alt="" />
 
 ### Projects
 
@@ -15,7 +15,7 @@ I'm a second year software development student working on improving my knowledge
 - Happy Aquarium Remake
 - Personal tools
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.png" width="100%" alt="" />
 
 ### Tech
 
@@ -53,7 +53,7 @@ I'm a second year software development student working on improving my knowledge
     <img src="https://img.shields.io/badge/PaperMC-3a3040?style=for-the-badge" alt="PaperMC" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.png" width="100%" alt="" />
 
 ### Currently
 
